@@ -12,4 +12,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/halilirmak/)
 - 📧 [Email](mailto:halilibrahimirmak@gmail.com)
 
-| <a href="https://github.com/h-irmak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=h-irmak&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Halil Irmak's github stats" /></a> |
+| <a href="https://github.com/h-irmak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=h-irmak&show_icons=true&include_all_commits=true&theme=gotham&hide_border=false" alt="Halil Irmak's github stats" /></a> |
