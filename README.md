@@ -1,6 +1,6 @@
-### Hi there, I'm [Halil] 👋
+### Hi there, I'm Halil 👋
 
-<img src="https://github.com/cryptoPickle/h-irmak/blob/master/logo.png" align="left" alt="Profile Image" width="300"/>
+<img src="https://github.com/h-irmak/h-irmak/blob/master/logo.png?raw=true" align="right" alt="Profile Image" width="300"/>
 
 🚀 **About Me:**
 
