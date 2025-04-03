@@ -1,6 +1,6 @@
-### Hi there, I'm [Halil] 👋
+### Hi there, I'm Halil 👋
 
-<img src="https://github.com/halilirmak/halilirmak/blob/master/logo.png" align="left" alt="Profile Image" width="300"/>
+<img src="https://github.com/halilirmak/halilirmak/blob/master/logo.png" align="right" alt="Profile Image" width="300"/>
 
 🚀 **About Me:**
 
